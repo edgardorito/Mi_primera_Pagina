@@ -1,0 +1,20 @@
+html,body{
+	height: 100%;
+	font-family: Arial;
+}
+header{
+	background:url(imagenes/Dleon.jpg);
+	height: 100%;
+	padding-top: 1px;
+}
+.text-center{
+	text-align: center;
+}
+
+.be-big{
+	font-size: 3em;
+}
+
+.big-top-space{
+	margin-top: 150px;
+}
